@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
+import sch.id.nfbsbogor.tahfidzhnfbsbogor.ui.login.LoginActivity;
 
 public class SplashScreen extends AppCompatActivity {
 
@@ -22,7 +23,7 @@ public class SplashScreen extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent login = new Intent(SplashScreen.this, MainActivity.class);
+                Intent login = new Intent(SplashScreen.this, LoginActivity.class);
                 startActivity(login);
                 finish();
             }
