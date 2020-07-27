@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tahfidz-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Tahfidz-Android.iml" group="Tahfidz-Android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tahfidzh_NFBS_Bogor.iml" filepath="$PROJECT_DIR$/.idea/modules/Tahfidzh_NFBS_Bogor.iml" group="Tahfidzh_NFBS_Bogor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Tahfidzh NFBS Bogor/app" />
     </modules>
   </component>
 </project>
